@@ -1,1 +1,1 @@
-This is my unfinished portfolio done with React.
+This is my portfolio in the making done with React.
